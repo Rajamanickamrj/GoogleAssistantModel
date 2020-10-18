@@ -1,0 +1,6 @@
+selenium
+SpeechRecognition
+pipwin
+PyAudio
+pyttsx3
+
